@@ -1,4 +1,5 @@
 # Netflix Movies & Shows Analysis Using Python
 
-[Netflix logo](![image](https://github.com/user-attachments/assets/ff959d04-0995-455f-bb06-1ac1da49af45)
+[Netflix logo](![image](https://github.com/user-attachments/assets/714a8ed9-f997-44ed-9d2b-8b483acd26c2)
 )
+
