@@ -1,5 +1,7 @@
 # Netflix Movies & Shows Analysis Using Python
 
+![image alt](https://raw.githubusercontent.com/AnkitaSarkar-98/Netflix-Shows-Analysis/refs/heads/main/Netflix%20Logo.avif)
+
 This repository contains a comprehensive data analysis project focused on Netflix's content library. By leveraging Python's data manipulation and visualization capabilities, the project extracts meaningful insights into trends, distributions, and other key metrics related to Netflix's movies and TV shows
 
 Tools and Libraries Used:
